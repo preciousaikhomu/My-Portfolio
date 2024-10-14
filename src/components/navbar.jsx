@@ -6,11 +6,11 @@ import {FaSquareXTwitter} from "react-icons/fa6";
 
 const Navbar = () => {
   return (
-  <nav className="mb-20 flex flex-wrap px-4 md:px-8 items-center justify-between py-6">
-    <div className="flex flex-shrink-0 item-center">
+  <nav className="mb-20 flex flex-wrap items-center px-4 md:px-8 justify-between py-6">
+    <div className="flex item-center">
         <img className="mx-2 w-32 md:w-48" src={logo} alt="logo" />
     </div>
-    <div className="mt-4 flex w-full justify-center gap-6 text-3xl md:mt-0 md:w-auto md:text-2xl">
+    <div className="mt-4 flex items-center w-full justify-center gap-6 text-3xl md:mt-0 md:w-auto md:text-2xl">
     <a
           href="https://www.linkedin.com/in/precious-aikhomu/"
           target="_blank"
