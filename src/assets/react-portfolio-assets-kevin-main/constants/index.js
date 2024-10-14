@@ -47,10 +47,10 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Firebase"],
   },
   {
-    title: "Portfolio Website",
+    title: "N.G.O Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "A platform created for supporting the psychological and economic growth of Youngsters and Women, with features like support forum, Donations, and Media Gallery..",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
  
@@ -61,13 +61,7 @@ export const PROJECTS = [
       "A platform created for helping MSMEs with the needed strategy to gow. its prominent feature is its 24hr service and a chatbot to answer to clients.",
     technologies: ["HTML", "CSS", "React",],
   },
-  // {
-  //   title: "NGO Website",
-  //   image: project5,
-  //   description:
-  //     "A platform created for supporting the psychological and economic growth of Youngsters and Women, with features like support forum, Donations, and Media Gallery.",
-  //   technologies: ["HTML", "CSS", "React",],
-  // },
+
 ];
 
 export const CONTACT = {
