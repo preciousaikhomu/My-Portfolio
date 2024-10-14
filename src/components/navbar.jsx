@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="flex item-center">
         <img className="mx-2 w-32 md:w-48" src={logo} alt="logo" />
     </div>
-    <div className=" mt-4 flex items-center w-full justify-center gap-4 text-xl md:mt-0 md:w-auto md:text-2xl lg:text-3xl">
+    <div className="mt-4 flex items-center w-full justify-center md:justify-end gap-4 text-xl md:mt-0 md:w-auto md:text-2xl lg:text-3xl">
     <a
           href="https://www.linkedin.com/in/precious-aikhomu/"
           target="_blank"
